@@ -4,7 +4,7 @@ Obtener Datos de un Equipo Circutor Mediante Modbus TCP usando librería pymodbu
 
 Analizadores probados:
 * Power meter Circutor CVM-144 http://circutor.es/docs/FT_M5_CVM144_SP.pdf
-![error imagen](http://circutor.es/images/stories/virtuemart/product/FO_CVM144_250x250.jpg)
+<img src="http://circutor.es/images/stories/virtuemart/product/FO_CVM144_250x250.jpg" width="250" height="250" />
 * Power meter Circutor CVM-K (no dispone de ethernet) + TCP2RS modbus module
 <img src="http://www.ulrichmatterag.ch/shop/contents/media/circutor_analys_cvmk.gif" width="250" height="250" />
 
